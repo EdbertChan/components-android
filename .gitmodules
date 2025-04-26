@@ -1,3 +1,4 @@
 [submodule "client-sdk-android"]
 	path = client-sdk-android
-	url = git@github.com:livekit/client-sdk-android.git
+	url = https://github.com/EdbertChan/client-sdk-android.git 
+    branch = v1.2.0-favorited
